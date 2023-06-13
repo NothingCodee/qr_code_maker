@@ -1,0 +1,16 @@
+C:\Users\bs504\source\repos\QrCode_Olusturucu\QrCode_Olusturucu\obj\Debug\QrCode_Olusturucu.csproj.AssemblyReference.cache
+C:\Users\bs504\source\repos\QrCode_Olusturucu\QrCode_Olusturucu\obj\Debug\QrCode_Olusturucu.csproj.SuggestedBindingRedirects.cache
+C:\Users\bs504\source\repos\QrCode_Olusturucu\QrCode_Olusturucu\obj\Debug\QrCode_Olusturucu.Form1.resources
+C:\Users\bs504\source\repos\QrCode_Olusturucu\QrCode_Olusturucu\obj\Debug\QrCode_Olusturucu.Properties.Resources.resources
+C:\Users\bs504\source\repos\QrCode_Olusturucu\QrCode_Olusturucu\obj\Debug\QrCode_Olusturucu.csproj.GenerateResource.cache
+C:\Users\bs504\source\repos\QrCode_Olusturucu\QrCode_Olusturucu\obj\Debug\QrCode_Olusturucu.csproj.CoreCompileInputs.cache
+C:\Users\bs504\source\repos\QrCode_Olusturucu\QrCode_Olusturucu\bin\Debug\QrCode_Olusturucu.exe.config
+C:\Users\bs504\source\repos\QrCode_Olusturucu\QrCode_Olusturucu\bin\Debug\QrCode_Olusturucu.exe
+C:\Users\bs504\source\repos\QrCode_Olusturucu\QrCode_Olusturucu\bin\Debug\QrCode_Olusturucu.pdb
+C:\Users\bs504\source\repos\QrCode_Olusturucu\QrCode_Olusturucu\bin\Debug\zxing.dll
+C:\Users\bs504\source\repos\QrCode_Olusturucu\QrCode_Olusturucu\bin\Debug\zxing.presentation.dll
+C:\Users\bs504\source\repos\QrCode_Olusturucu\QrCode_Olusturucu\bin\Debug\zxing.xml
+C:\Users\bs504\source\repos\QrCode_Olusturucu\QrCode_Olusturucu\bin\Debug\zxing.presentation.xml
+C:\Users\bs504\source\repos\QrCode_Olusturucu\QrCode_Olusturucu\obj\Debug\QrCode_Olusturucu.csproj.CopyComplete
+C:\Users\bs504\source\repos\QrCode_Olusturucu\QrCode_Olusturucu\obj\Debug\QrCode_Olusturucu.exe
+C:\Users\bs504\source\repos\QrCode_Olusturucu\QrCode_Olusturucu\obj\Debug\QrCode_Olusturucu.pdb
